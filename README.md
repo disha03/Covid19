@@ -13,7 +13,7 @@ MySQL Connector/C++ is an object-oriented database API library to work with MySQ
 MySQL already has a C-style native API library and the  problem is that, to fit it with the C++ paradigm, one has to manipulate using cryptic code.MySQL
 Connector/C++, on the other hand, is purely object-oriented, backed by a well-designed architecture. On the C++ GUI framework, C++ has a variety of options for creating a cross-platform GUI interface. 
 
-But, Qt is perhaps the best among them. The library is simple to implement and contains highly intuitive classes and functions to fit almost every need of the developer. This article is an attempt to couple these two techs and show how effectively they can be used to create a Qt C++ GUI interface for a MySQL Connector/C++ database application.
+But, Qt is perhaps the best among them. The library is simple to implement and contains highly intuitive classes and functions to fit almost every need of the developer. This project is an attempt to couple these two techs c++&sql and show how effectively they can be used to create a Qt C++ GUI interface for a MySQL Connector/C++ database application.
 
 # Phases of our proposed work: 
 
