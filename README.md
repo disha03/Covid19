@@ -5,9 +5,9 @@
   We have shared the codes and links for different ubuntu version (>=Ubuntu 18.0 and ubuntu 19.05<=) 
 # About:
 Prepared Database of COVID-19 on SQLite (Active cases, Deaths, Recovered). Using  QT5 software for GUI and  C++ for connecting SQLite to GUI. Here we are tring to Acquired working knowledge of MySQL in real life softwares and projects.
-# Objective: Interfacing MySQL Connector/C++ with the Qt Framework for Mysql Databases.
+## Objective: Interfacing MySQL Connector/C++ with the Qt Framework for Mysql Databases.
 
-# Why? 
+## Why? 
 
 MySQL Connector/C++ is an object-oriented database API library to work with MySQL database and C++.The API is partly built upon the JDBC 4.0 API specification.         As a result, the C++ class names and functional interfaces are same as we use in JDBC programming in Java. 
 
@@ -16,7 +16,7 @@ Connector/C++, on the other hand, is purely object-oriented, backed by a well-de
 
 But, Qt is perhaps the best among them. The library is simple to implement and contains highly intuitive classes and functions to fit almost every need of the developer. This project is an attempt to couple these two techs c++&sql and show how effectively they can be used to create a Qt C++ GUI interface for a MySQL Connector/C++ database application.
 
-# Phases of our proposed work: 
+## Phases of our proposed work: 
 
 Following tools to go hands-on with the following code.The underlying platform for confriguration & settings used here is Linux: 
 
@@ -26,7 +26,7 @@ Following tools to go hands-on with the following code.The underlying platform f
    
    3.Qt5 Framework with QtCreator
 
-# Advantages:
+## Advantages:
 
 From a programmer's point of view, the key benefits of using MySQL Connector/C++ over native API library are as follows:
    
@@ -42,6 +42,6 @@ From a programmer's point of view, the key benefits of using MySQL Connector/C++
 
   6.It is an excellent framework for building cross-platform C++ applications; it can be ported to all major platforms available in the market. Apart from supporting many other languages, Qt is extensively used for embedded application development.
 
-# Hence here, we focus on going hands-on to create a MySQL database application with a Qt interface.That's all!!!
+## Hence here, we focus on going hands-on to create a MySQL database application with a Qt interface.That's all!!!
 
 **you can view the final output gui video in output file in this project(above)**
