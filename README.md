@@ -3,7 +3,8 @@
   https://www.google.com/search?client=ubuntu&channel=fs&q=covid+stats+india&ie=utf-8&oe=utf-8
   
   We have shared the codes and links for different ubuntu version (>=Ubuntu 18.0 and ubuntu 19.05<=) 
-
+# About:
+Prepared Database of COVID-19 on SQLite (Active cases, Deaths, Recovered). Using  QT5 software for GUI and  C++ for connecting SQLite to GUI. Here we are tring to Acquired working knowledge of MySQL in real life softwares and projects.
 # Objective: Interfacing MySQL Connector/C++ with the Qt Framework for Mysql Databases.
 
 # Why? 
